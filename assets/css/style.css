@@ -1,0 +1,22 @@
+
+body {
+  height: 100%;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
+   background-size: cover;
+   background-color: aliceblue
+}
+
+.column {
+  float: left;
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 40%;
+}
