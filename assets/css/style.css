@@ -1,22 +1,30 @@
 
-body {
+body, .jumbotron {
+  background: url("../../Images/Skybackground.jpg");
   height: 100%;
    width: 100%;
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center;
    background-size: cover;
-   background-color: aliceblue
+  background-color: #ddfffc;
 }
 
-.column {
-  float: left;
+.home, .about {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 32px;
+letter-spacing: 0px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+background: white;
+margin-left:10px;
+margin-right:10px;
+outline: solid 5px black;
 }
 
-.left, .right {
-  width: 25%;
-}
 
-.middle {
-  width: 40%;
-}
