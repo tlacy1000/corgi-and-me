@@ -32,3 +32,11 @@ outline: solid 5px black;
 }
 
 
+.middle {
+  width: 40%;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
