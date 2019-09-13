@@ -1,4 +1,5 @@
 
+
 body, .jumbotron {
   background: url("../../Images/Skybackground.jpg");
   height: 100%;
@@ -27,6 +28,5 @@ margin-right:10px;
 outline: solid 5px black;
 }
 
-.card-body {
+
   
-}
